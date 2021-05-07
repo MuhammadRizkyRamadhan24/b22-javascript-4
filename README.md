@@ -18,4 +18,4 @@
 
 ## Flowchart 3.js
 
-![](https://raw.githubusercontent.com/MuhammadRizkyRamadhan24/b22-javascript-4/master/image/fc.png)
+![](https://raw.githubusercontent.com/MuhammadRizkyRamadhan24/b22-javascript-4/master/image/flowchart.png)
