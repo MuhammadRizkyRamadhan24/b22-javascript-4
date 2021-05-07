@@ -16,6 +16,6 @@
 14. lalu tampilkan
 15. Selesai
 
-# Flowchart 3.js
+## Flowchart 3.js
 
 ![](https://raw.githubusercontent.com/MuhammadRizkyRamadhan24/b22-javascript-4/master/image/fc.png)
