@@ -13,18 +13,18 @@ divideAndSort(5956560159466056)
 
 //algoritma
 // 1.Mulai
-// 2.Masukan Angka 
-// 3.Lalu ubah Angka menjadi String
-// 4.lalu buat variable newArray yang berisi array kosong
-// 4.Kemudian Split variable berdasarkan '0'
+// 2.Masukan Input (Int)
+// 3.Lalu ubah (Int) menjadi (String) menggunakan toString()
+// 4.Kemudian Split Inputan berdasarkan '0'
 // 5.Setelah mendapatkan hasil split kita hitung length array dari hasil split
-// 6.lakukan looping berdasarkan hasil split
-// 7.didalam looping kita menghasilkan variable baru
-// 8.lalu variable baru tersebut kita split berdasarkan ''
-// 9.setelah displit lalu kita sort untuk mengurutkan
-// 10.lalu kita join untuk menggbungkan
-// 11.sehabis itu kita push hasil tadi ke variable newArray
-// 12.Lalu variable newArray kita gabungkan dengan join()
-// 13.ubah kembali menjadi angka dengan parseInt
-// 14.lalu tampilkan
-// 15.Selesai
+// 6.lalu buat variable newArray yang berisi array kosong
+// 7.lakukan looping berdasarkan length array
+// 8.didalam looping kita menghasilkan variable baru
+// 9.lalu variable baru tersebut kita split berdasarkan ''
+// 10.setelah displit lalu kita sort untuk mengurutkan
+// 11.lalu kita join untuk menggabungkan
+// 12.sehabis itu kita push hasil tadi ke variable newArray
+// 13.Lalu variable newArray kita gabungkan dengan join()
+// 14.ubah kembali menjadi angka dengan parseInt
+// 15.lalu tampilkan
+// 16.Selesai
