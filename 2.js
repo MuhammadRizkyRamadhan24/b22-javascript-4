@@ -13,3 +13,11 @@ function rw(str){
 }
 
 rw('Saya belajar javascript');
+
+// algoritma:
+// 1. Mulai
+// 2. inputkan kalimat minimal 2 kata
+// 3. lalu inputan tersebut dipisahkan perkata
+// 4. lalu dibalik perkata dan disatukan lagi
+// 5. lalu cetak output dari proses tersebut
+// 6. Selesai
